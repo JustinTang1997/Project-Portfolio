@@ -4,7 +4,7 @@ Welcome to my Power BI portfolio! Below are some of the dashboards I’ve create
 
 ## 📊 Sales Dashboard
 
-![01 Project A 06042025](Superstore - Executive Summary.png)
+![01 Project A 06042025](Superstore - Executive Summary.jpg)
 
 **Description**: A dashboard analyzing regional and category-wise sales performance for a Superstore.  
 **Tech stack**: Power BI, DAX, Excel  
